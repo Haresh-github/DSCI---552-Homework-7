@@ -1,0 +1,4 @@
+approach,label,cv_accuracy,C,gamma
+L1 linear SVM,Family,0.940428066521506,1.0,
+L1 linear SVM,Genus,0.9501613335857868,1.0,
+L1 linear SVM,Species,0.960087490927451,1.0,

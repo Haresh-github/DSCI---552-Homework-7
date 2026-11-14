@@ -1,0 +1,4 @@
+approach,label,cv_accuracy,C,gamma
+RBF SVM,Family,0.9904683013032912,10.0,0.1
+RBF SVM,Genus,0.9890782290384678,10.0,0.1
+RBF SVM,Species,0.9888802107986999,10.0,0.1

@@ -1,0 +1,4 @@
+approach,label,cv_accuracy,C,gamma
+L1 + SMOTE,Family,0.9328848338540187,1.0,
+L1 + SMOTE,Genus,0.9438097604847107,0.1,
+L1 + SMOTE,Species,0.958897014736975,1.0,
